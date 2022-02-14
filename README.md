@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielaGarciaSerrano
 - 👀 I’m interested in to learn Javascript
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me in @gabrielags7
 
